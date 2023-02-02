@@ -258,6 +258,7 @@ body {
   border-radius: 5.61px;
 
   }
+  
   .Analytics_sec1{
   padding: 5px;
   margin: 10px;
@@ -280,6 +281,17 @@ body {
   }
 .analyitixs_txt_s{
  text-align: center;
+}
+.analyitixs_txt_ss{
+  position: absolute;
+  left: 340px;
+  padding: 5px;
+  
+}
+.analyitixs_txt_sss{
+   position: absolute;
+  left: 300px;
+  padding: 5px;
 }
 /*analitik end*/
 
@@ -734,6 +746,10 @@ text-decoration: none;
     position: absolute;
     top: 180px;
     
+  }
+  .futures_table .underline { 
+    width: 10px;
+    border-bottom: 1px solid #686868 
   }
 /*Futures end*/
 
