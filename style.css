@@ -147,11 +147,11 @@ body {
       height: 430px;
       box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
       border-radius: 10px;
-      background: url(./img3/group1.svg)  center 88px no-repeat #212734;
+      background: url(./group21.svg)  center 88px no-repeat #212734;
   }
   .price{
       position: relative;
-      background: url(./img3/praice.svg);
+      background: url(./praice.svg);
       width: 124px;
       height: 45px;
       left: 550px;
@@ -159,7 +159,7 @@ body {
   }
   .squer{
       position: relative;
-      background: url(./img3/Rectangl1352.svg);
+      background: url(./Rectangl1352.svg);
       width: 17px;
       height: 17px;
       left: 603px;
@@ -228,7 +228,7 @@ body {
   }
 
   .smol_log{
-      background: url(./img3/grupsmol.svg);
+      background: url(./grupsmol.svg);
       width: 103px;
       height: 17px;
       position: absolute;
@@ -240,7 +240,7 @@ body {
   position: absolute;
   right: 0px;
   bottom: 50px;
-  background: url(./img3/groupfooot.svg) no-repeat #212734;
+  background: url(./groupfooot.svg) no-repeat #212734;
   width: 340px;
   height: 33px;
 
@@ -288,7 +288,7 @@ body {
     border-radius: 7.44986px
 }
 .diagrams_form{
-    background-image: url(./img2/diagrams.svg);
+    background-image: url(./diagrams.svg);
     Width:242px;
     height: 240px;
     position: absolute;
@@ -344,8 +344,8 @@ text-decoration: none;
         width: 212px;
         border: 2.53px solid #5939a1;
         border-radius: 50%;
-        background: url(./img1/2.svg) top center no-repeat,
-          url(./img1/1.svg) bottom center no-repeat;
+        background: url(./2.svg) top center no-repeat,
+          url(./1.svg) bottom center no-repeat;
         padding-top: 15px;
       }
       .cirk p {
@@ -578,7 +578,7 @@ text-decoration: none;
       }
       .secton_hed_img{
         position: absolute;
-        background: url(./tableimg/slaq1.svg);
+        background: url(./slaq1.svg);
         top:20px;
         left: 150px;
         width: 30px;
@@ -586,7 +586,7 @@ text-decoration: none;
       }
       .secton_hed_img_1{
         position: absolute;
-        background: url(./tableimg/$\ 855\,914.000.svg);
+        background: url(./$\ 855\,914.000.svg);
         top:20px;
         left:180px;
         width: 163px;
@@ -646,14 +646,14 @@ text-decoration: none;
 
 .time_secshion_price_pic1{  
   position: absolute;
- background:  url(./img/timescorehid.svg) no-repeat;
+ background:  url(./timescorehid.svg) no-repeat;
  width: 80px;
  height: 30px;
 }
 .time_secshion_price_pic2{
   position: absolute;
   left: 75px;
-  background:  url(./img/timescorelow.svg) no-repeat;
+  background:  url(./timescorelow.svg) no-repeat;
  width: 80px;
  height: 30px;
 }
@@ -693,7 +693,7 @@ text-decoration: none;
   position: absolute;
   width: 95%;
   height: 125px;
-  background: url(./img/Vector\ 403.svg);
+  background: url(./Vector\ 403.svg);
   top: 60px;
   
 
@@ -809,7 +809,7 @@ text-decoration: none;
 }
 .hide_small_binance_grafik{
   position: absolute;
-  background: url(./img/binancelogoyelov.svg) no-repeat;
+  background: url(./binancelogoyelov.svg) no-repeat;
   width:27px ;
   height: 27px;
   left: 10px;
@@ -839,7 +839,7 @@ text-decoration: none;
 }
 .hide_small_binance_grafik_gren{
   position: absolute;
-  background: url(./img/binancegravikgreen.svg) no-repeat;
+  background: url(./binancegravikgreen.svg) no-repeat;
   width: 99px;
   height: 48px;
   left: 205px;
@@ -847,7 +847,7 @@ text-decoration: none;
 }
 .hide_small_binance_grafik_copy{
   position: absolute;
-  background: url(./img/binancelogoyelov.svg) no-repeat;
+  background: url(./binancelogoyelov.svg) no-repeat;
   width:27px ;
   height: 27px;
   left: 40px;
@@ -914,7 +914,7 @@ text-decoration: none;
 
 }
 .Subscribe_icon{
-  background: url(./img/iconxxx.svg) no-repeat;
+  background: url(./iconxxx.svg) no-repeat;
   float: left;
   width: 10px;
   height: 10px;
