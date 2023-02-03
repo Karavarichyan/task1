@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<style>
+
+		#binance { width: 300px; background: #1A202C; color: #fff; padding:10px; font-size:18px; }
+		#binance div { display:flex; gap: 15px; padding:25px; border-radius:5px;   }
+		#binance div.over { background: #2B3548; } 
+		#binance div.underline { border-bottom: 1px solid #686868 }
+		.binance_txt_red{color: red; font-size:16px;}
+		
+
+#subscribe { width: 300px; background: #212734; color: #fff; padding:20px; font-size:18px; position:relative; border-radius:10px; }
+#subscribe span.close { position:absolute; right:15px; top:15px; width:20px; height:20px; border-radius:50%; color:#fff; background: #1A202C; text-align:center; line-height:20px }
+#subscribe a { display: block; padding: 15px; color: #fff; text-decoration: none; text-align: center; background: #A37DF9; }
+
+#hide-sort { display:flex; width: 300px; background: #1A202C; color: #fff; padding:10px; font-size:18px; }
+#hide-sort #hide { width:60%; background: url(./ear.svg) no-repeat right center;}
+#hide-sort #sort { width:40%; background: url(./sort.svg) no-repeat right center;}
+#search { width: 300px; background: #1A202C; color: #fff; padding:10px; font-size:18px; }
+#search input { background:transparent; border:1px solid #2B3548; border-radius:3px; width:100%; line-height:30px;
+	background: url(./serchloop.svg) no-repeat left center; text-align: center;}
+
+</style>
+</head>
+<body>
+
+	
+	<div id="hide-sort">
+		<div id="hide">Hide small balances</div>
+		<div id="sort">Sort</div>
+	</div>
+
+	<div id="search">
+		<input type="text" name="search" placeholder="Search your exchange">
+	</div>
+
+	
+
+	<div id="binance">
+		<div class="underline">
+			<span ><img src="./binancelogoyelov.svg"></span>
+			<span>biance</span>
+			<span class="binance_txt_red">45%</span>
+		</div>
+		<div>
+			<span>$1000.00</span>
+			<span><img src="./binancegravikgreen.svg"></span>			
+		</div>
+		<div >
+			<span><img src="./binancelogoyelov.svg"></span>
+			<span>Binance Savings</span>			
+		</div>
+		<div class="over">
+			<span><img src="./binancelogoyelov.svg"></span>
+			<span>Binance Futures</span>			
+		</div>			
+	</div>
+
+	
+
+	<div id="subscribe">
+		<span class="close">x</span>
+		<p>Your free trial has been started․ There are 5 days left.</p>
+		<a href="#">Subscribe</a>
+	</div>
+
+
+
+</body>
+</html>
